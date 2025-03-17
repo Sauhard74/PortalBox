@@ -29,4 +29,4 @@ struct PortalMaterial: Material {
     var metallic: Float = 0.0
     var tintColor: UIColor = .white.withAlphaComponent(0.5)
     var tintOpacity: Float = 0.5
-}
+} 
